@@ -92,12 +92,12 @@ Ten         Warning with "Not Valid! Please enter a number between 1 and 3999, i
 ```
 001-roman-numerals-converter (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)          
-|----cfn-template.yml  # To be delivered by students (Cloudformation template)
-|----app.py            # To be delivered by students (Python Flask Web Application)
+|----readme.md         # Given (Definition of the project)          
+|----cfn-template.yml  # To be delivered (Cloudformation template)
+|----app.py            # To be delivered (Python Flask Web Application)
 |----templates
-        |----index.html  # Given to the students (HTML template)
-        |----result.html # Given to the students (HTML template)
+        |----index.html  # Given (HTML template)
+        |----result.html # Given (HTML template)
 ```
 
 ## Expected Outcome
