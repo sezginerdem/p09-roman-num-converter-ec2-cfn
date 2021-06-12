@@ -1,4 +1,4 @@
-# Project-09 : Roman Numerals Converter Application (Python Flask) deployed on AWS EC2 with Cloudformation
+# Project-09 : Roman Numerals Converter Application (Python Flask) deployed on AWS EC2 with CloudFormation
 
 ## Description
 The Roman Numerals Converter Application aims to convert the given number to Roman numerals. The application is to be coded in Python and deployed as a web application with Flask on AWS Elastic Compute Cloud (EC2) Instance using AWS Cloudformation Service. 
